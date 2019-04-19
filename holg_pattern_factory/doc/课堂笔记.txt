@@ -1,0 +1,4 @@
+spring ioc 工厂、单例、装饰器
+spring aop 代理、观察者、
+spring mvc 委派模式
+spring jdbc 模板方法
